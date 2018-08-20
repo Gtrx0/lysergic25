@@ -1,19 +1,18 @@
-# CPM43
-40% Mechanical keyboard PCB
+# Lysergic 25
+5x5 Macropad PCB
 
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Unpopulated_Front.png)
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_tilted_populated_front.png)
-![Frontside Render](https://raw.githubusercontent.com/Gtrx0/cpm43/master/Renders/Render_Populated_Back.png)
-[Layout](http://www.keyboard-layout-editor.com/#/gists/e3d0a9a1f7fb6537a82bb3f0c82ddf35)
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Frontside_Unpopulated.png)
+![Frontside Render](https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Frontside_Populated_Tilted.png)
+![Backside Render](https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png)
+# [Layout](http://www.keyboard-layout-editor.com/#/gists/2997f919e892d07fd131f2b731a871e9)
 
 ## Features
 * In-switch LED support.
-* Individually addressible RGB underglow provided by 14 separate WS2812B LEDs.
-* USB Type-C connector on the left side.
-* Compatible with Cherry MX and ALPS switches. 
-* Integrated 16MHz Atmega32u4 microcontroller for better QMK compatibility.
+* Individually addressible RGB underglow provided by 8 separate WS2812B LEDs.
+* USB micro B to USB type-C converter which works like the one ergodox, so no more ripped off usb ports on your pro micro.
+* Compatible with Cherry MX ALPS and Kailh CHOC switches. 
+* Pro Micro microcontroller for easy diy assembly.
 * USB ESD protection circuit.
-* ICSP programming header just in case you try something a bit too extreme and need to unbrick it.
 * 0805 SMD and through hole Diode/resistor compatibility for ease of assembly.
 
 ## Warning
