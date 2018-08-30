@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.0.0)*%
-%TF.CreationDate,2018-08-20T15:42:57+03:00*%
+%TF.CreationDate,2018-08-30T21:25:35+03:00*%
 %TF.ProjectId,Lysergic25,4C7973657267696332352E6B69636164,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.0.0)) date 08/20/18 15:42:57*
+G04 Created by KiCad (PCBNEW (5.0.0)) date 08/30/18 21:25:35*
 %MOMM*%
 %LPD*%
 G01*
@@ -14,6 +14,10 @@ G04 APERTURE LIST*
 %ADD10C,0.150000*%
 G04 APERTURE END LIST*
 D10*
+X73152000Y-83820000D02*
+X62484000Y-83820000D01*
+X16002000Y-83820000D02*
+X5334000Y-83820000D01*
 X73152000Y-83820000D02*
 X81280000Y-83820000D01*
 X16002000Y-83820000D02*
